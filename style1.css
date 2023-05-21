@@ -28,6 +28,7 @@ h1{
     display: inline-block;
 }
 h3{
+    text-align: right;
     position: relative;
     padding: 4px;
     color: antiquewhite;
